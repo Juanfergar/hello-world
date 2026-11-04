@@ -169,6 +169,7 @@
         </div>
 
         <button class="btn primary" id="start" ${lang && level ? '' : 'disabled'}>🚀 Comenzar mi aventura</button>
+        <p class="muted">👧🧒 ¿Es para un niño o una niña de Infantil o Primaria? Prueba <a href="kids.html">Inglés con Bubo</a>, la versión para niños.</p>
       </section>`;
 
     const startBtn = document.getElementById('start');
